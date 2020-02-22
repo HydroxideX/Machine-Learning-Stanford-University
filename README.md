@@ -4,7 +4,7 @@
 -   A Collection of Machine Learning Algorithms.
 
 
-## Algorithms Implemented##
+## Algorithms Implemented
 
 -   Implemented Linear Regression using Gradient descent and Normal equations to predict housing prices.
 -   Implemented logistic regression to predict if a student is accepted in a university.
